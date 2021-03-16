@@ -2,14 +2,49 @@
 <head>
   <title>서류 작성방법</title>
   <meta charset="utf-8">
-</head>
-<body>
-<h1>격리 공지</h1>
-<ol>
-  <li><a href="1.html" title="documents">서류작성 방법</a></p></li>
-  <li><a href="2.html" title="meals">식단</a></p></li>
-  <li><a href="3.html" title="loundry_price">세탁물 요금표</a></li>
-</ol><h2>서류 작성 방법</h2>
+  <style>
+    body{
+      margin:0;
+    }
+    a {
+      color:black;
+      text-decoration: none;
+    }
+    h1 {
+      font-size:45px;
+      text-align: center;
+      border-bottom:1px solid gray;
+      margin:0;
+      padding:20px;
+    }
+    ol{
+      border-right:1px solid gray;
+      width:100px;
+      margin:0;
+      padding:20px;
+    }
+    #grid{
+      display: grid;
+      grid-template-columns: 150px 1fr;
+    }
+    #grid ol{
+      padding-left:33px;
+    }
+    #grid #article{
+      padding-left:25px;
+    }
+  </style>
+ </head>
+ <body>
+ <h1>격리 공지</h1>
+ <div id="grid">
+ <ol>
+   <li><a href="1.html" title="퇴실시 제출할 서류의 작성법입니다.">서류작성 방법</a></p></li>
+   <li><a href="2.html" title="격리기간 제공 되는 식단입니다.">식단</a></p></li>
+   <li><a href="3.html" title="추가 세탁물의 요금입니다.">세탁물 요금표</a></li>
+ </ol>
+     <div id="article">
+<h2>서류 작성 방법</h2>
 <div style="text-align:center;">
   <img src="doc1.jpg" style="max-width:100%;height:auto;">
     <img src="doc2.jpg" style="max-width:100%;height:auto;">

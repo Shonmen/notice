@@ -55,6 +55,7 @@ li{
 }
 table {
   width: 100%;
+  font-size: 15pt;
   border-collapse: collapse;
 }
 /* Zebra striping */

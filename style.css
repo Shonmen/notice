@@ -18,8 +18,9 @@ header {
   align-items: center;
 }
 
-h1, p {
+h1 {
   margin: 0;
+  font-size: 45px;
 }
 
 main {

@@ -20,8 +20,7 @@ header {
 }
 h1 {
   margin: 0;
-  font-size: 45px;
-  font-size:45px;
+  font-size:50px;
   text-align: center;
   padding:20px;
 }
@@ -33,18 +32,15 @@ main {
   box-sizing: border-box;
 }
 a {
-  font-size:30px;
+  font-size:32px;
   color;blue;
   text-decoration: none;
 }
-h1 {
-
-}
 h2 {
+  font-size:37px;
   color: #3366ff;
   text-decoration: none;
 }
-
 ol{
   border-right:1px solid gray;
   width:100px;
@@ -54,6 +50,7 @@ ol{
 li{
   font-size:25px;
   margin-block-start: 0.6em;
+  padding:5px;
 }
 table {
   width: 100%;

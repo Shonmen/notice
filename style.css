@@ -21,6 +21,9 @@ header {
 h1 {
   margin: 0;
   font-size: 45px;
+  font-size:45px;
+  text-align: center;
+  padding:20px;
 }
 main {
   padding: 1rem;
@@ -35,10 +38,7 @@ a {
   text-decoration: none;
 }
 h1 {
-  font-size:45px;
-  text-align: center;
-  margin:0;
-  padding:20px;
+
 }
 h2 {
   color: #3366ff;

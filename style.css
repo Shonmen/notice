@@ -20,7 +20,7 @@ header {
 }
 h1 {
   margin: 0;
-  font-size:50px;
+  font-size:40px;
   text-align: center;
   padding:20px;
 }
@@ -32,12 +32,12 @@ main {
   box-sizing: border-box;
 }
 a {
-  font-size:32px;
+  font-size:30px;
   color;blue;
   text-decoration: none;
 }
 h2 {
-  font-size:37px;
+  font-size:35px;
   color: #3366ff;
   text-decoration: none;
 }

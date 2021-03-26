@@ -1,6 +1,6 @@
 body{
   top-margin:0; bottom-margin:0;
-  padding-top: 75px;
+  padding-top: 70px;
   background: #EEE;
 }
 header {
@@ -8,7 +8,6 @@ header {
   top: 0;
   left: 0;
   right: 0;
-
   height: 75px;
   padding: 1rem;
   color: white;
@@ -19,9 +18,9 @@ header {
   align-items: center;
 }
 h1 {
-  margin: 0;
+  margin:0;
   font-size:40px;
-  text-align: center;
+  text-align:center;
   padding:20px;
 }
 main {
